@@ -1,8 +1,7 @@
+Bootstrap 5 project for ZTW (4?)
+
+
+Made using:
+
 MDB5
 Version: PRO 7.2.0
-
-Documentation:
-https://mdbootstrap.com/docs/standard/
-
-Contact:
-contact@mdbootstrap.com
